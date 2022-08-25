@@ -1,0 +1,34 @@
+- name: 计算机设计大赛
+  url: 
+  time: 2019.04 &mdash; 2019.08
+  program-language: Python
+  works: 基于 Django 框架的数据分析系统(Python) 
+  role: 使用Django框架构建数据分析页面，使用ECharts.js，PLT，Matplotlib 等集成开发库渲染分析结果。
+  description: 在云服务器 Linux 系统上使用数据分析算法，对用户已有数据动态 提取和分析，并将数据以图表和曲线图的形式呈现给用户。
+
+
+- name: 智能汽车竞赛
+  url: 
+  time: 2018.10 &mdash; 2019.08
+  program-language: C，Python
+  works: 四摄像头自动驾驶智能汽车系统
+  role: 独立设计了连通域算法，达到识别目标信号。并负责 PID 控制、赛 道元素识别，所写程序 5000 行以上。
+  description: 在 IAR 环境下，在 MIMXRT1052 和 K66 单片机上用 c 语言处理包 括摄像头图像在内的多种传感器数据，并对智能车进行控制，使车模在赛道（路 径规划，障碍识别等）上自动驾驶。
+  
+
+- name: 电子设计大赛
+  url: 
+  time: 2019.08 &mdash; 2019.08
+  program-language: C
+  works: 模拟电磁曲射炮
+  role: 串级 PID 控制及调参、各模块程序调用。
+  description: 利用曲射炮（自制）将弹丸击中环形靶。而靶的位置是指定范围的 任意位置，同时还要实现自动寻靶功能。
+  
+- name: 电子设计大赛
+  url: 
+  time: 2018.08 &mdash; 2018.08
+  program-language: C
+  works: 手势识别装置
+  role: STM32 单片机实现 KNN 算法，调用各模块，调配优先级。
+  description: 利用铜板与电容传感器，搭建可识别数字与动作的手势识别装置， 并可通过训练来完成特殊的手势识别。
+  

@@ -1,0 +1,12 @@
+# Skills
+
+- skill: 代码能力
+  description: 擅长C/C++语言编程，Python（万行以上代码经验），MATLAB，JavaScript， Java，Linux 等，这些都在比赛和项目中得到锻炼
+
+# 
+- skill: 掌握基本网络结构
+  description: 熟练掌握 CNN 和 LSTM 等深度学习理论及 PyTorch，PaddlePaddle 等深度学 习框架，根据文献复现过 AlexNet, VggNet, GoogleNet, ResNet 和 DenseNet 等经典网络; 熟练掌握机器学习的 SVM，KNN 等常见算法。
+
+# Digital content development and creation
+- skill: 熟悉基本检测任务
+  description: 熟悉基于深度学习的目标检测算法 Yolov3, SSD 和图像分割算法 Unet, FCN 等
